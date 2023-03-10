@@ -30,4 +30,5 @@ jobs:
       START_DATE: ${{ secrets.START_DATE }}
       BIRTHDAY: ${{ secrets.BIRTHDAY }}
       CITY: ${{ secrets.CITY }}
+      MYBIRTHDAY: ${{ secrets.MYBIRTHDAY }}
       MENSES_DATE: ${{ secrets.MENSES_DATE }}
