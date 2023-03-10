@@ -69,7 +69,7 @@ data = {"weather": {"value": weather, "color": get_random_color()},
         "mins": {"value": mins, "color": get_random_color()},
         "love_days": {"value": get_count(), "color": get_random_color()},
         "birthday_left": {"value": get_birthday(), "color": get_random_color()},
-#         "birthday_left2": {"value": get_birthday2(), "color": get_random_color()},
+        "birthday_left2": {"value": get_birthday2(), "color": get_random_color()},
         "words": {"value": get_words(), "color": get_random_color()}
         }
 everyone = user_id.split(",")
